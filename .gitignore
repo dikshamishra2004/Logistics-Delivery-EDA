@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+*.DS_Store
+.env
+*.tex
+*.aux
+*.out
+*.synctex.gz
+*.toc
